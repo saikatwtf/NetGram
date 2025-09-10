@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: netgram-backend
+    env: python
+    buildCommand: "cd backend && pip install -r requirements.txt"
+    startCommand: "cd backend && python main.py"
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: MONGO_URI
+        sync: false
+      - key: DATABASE_NAME
+        value: netgram
+      - key: API_HOST
+        value: 0.0.0.0
+      - key: API_PORT
+        value: 10000
+      - key: FRONTEND_URL
+        sync: false
