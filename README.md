@@ -306,7 +306,7 @@ This project is for educational purposes only. Users are responsible for complyi
 
 - **Issues**: [GitHub Issues](https://github.com/saikatwtf/netgram/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/saikatwtf/netgram/discussions)
-- **Email**: annihilisop.t.me
+- **Email**: [annihilisop.t.me](https://telegtam.me/AnnihilusOP)
 
 ---
 
