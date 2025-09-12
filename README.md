@@ -1,3 +1,5 @@
+# ⚠️ Incomplete Project 
+
 # 🎬 NetGram - Netflix-Style Telegram Movie Platform
 
 A complete movie streaming platform that automatically indexes movies from Telegram channels and provides a Netflix-like interface for browsing, searching, and streaming.
